@@ -1,0 +1,20 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-1",
+        "area": "100",
+        "type": "residential"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [[0,0,0], [10,0,0], [10,0,10], [0,0,10], [0,0,0]]
+        ]
+      }
+    }
+  ]
+}

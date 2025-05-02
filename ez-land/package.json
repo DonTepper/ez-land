@@ -1,0 +1,15 @@
+
+{
+  "name": "ez-land",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
