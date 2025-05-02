@@ -19,4 +19,4 @@ npm run dev
 npm run deploy
 ```
 
-View live: [https://DonTepper.github.io/ez-land/](https://DonTepper.github.io/ez-land/)
+View live: xxxxxxxxxxxxxxxxxxxxxxxxxx
